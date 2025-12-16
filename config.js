@@ -18,7 +18,7 @@ const config = {
     ],
     "companyName": "Chantel Crisp",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
+    "mainCTAButtonURL": "https://calendly.com/chantel-crisp-team/30-minute-call",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
     "facebookPixelId": ""
