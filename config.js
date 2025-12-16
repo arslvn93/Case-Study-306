@@ -11,7 +11,7 @@ const config = {
           },
           {
             "type": "phone",
-            "value": "(555) 123-4567"
+            "value": "+1 (647) 967-9677"
           }
         ]
       }
