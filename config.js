@@ -55,7 +55,7 @@ const config = {
       "type": "standard",
       "title": "The Challenge",
       "paragraphs": [
-        "\"Based on everything we heard in the media, we just assumed we'd never afford a freehold home in the city—we thought we'd have to leave Toronto entirely or settle for a condo\"",
+        "\"Based on everything we heard in the media, we just assumed we'd never afford a freehold home in the city, we thought we'd have to leave Toronto entirely or settle for a condo\"",
         "They felt so discouraged by the narrative around affordability that they couldn't even bring themselves to get pre-approved, fearing it would only confirm what they believed: homeownership was out of reach",
         "The fear of overpaying or inheriting hidden problems they couldn't afford to fix kept them paralyzed, stuck between wanting more space and feeling safer staying put in their rental",
         "They had no roadmap, no clarity on what was actually possible for them, and no confidence that the market had anything to offer within their reality"
@@ -67,21 +67,18 @@ const config = {
       "title": "The Strategy",
       "paragraphs": [
         "Connected them with trusted mortgage professionals to secure pre-approval fast, giving them a clear and realistic picture of their buying power from day one",
-        "Educated them on current market conditions using real sales data from their desired neighbourhoods, proving that freehold homes in the city were still within reach—not just condos",
+        "Educated them on current market conditions using real sales data from their desired neighbourhoods, proving that freehold homes in the city were still within reach, not just condos",
         "Took them on a strategic, curated tour of 9 homes in one day, ensuring they saw the best options without wasting time or energy on properties that didn't fit",
         "Prepared them thoroughly for the competitive offer environment by analyzing comparable sales, connecting directly with the listing agent for insider insight, and coaching them on how to stand out beyond just price",
         "Encouraged them to write a personal letter to the sellers, humanizing their offer and creating an emotional connection that made them unforgettable in a multi-offer scenario"
       ],
-      "testimonial": {
-        "quote": "\"\"We are tremendously grateful to have found Chantel and her team for our first house purchase. There is truly no person better to guide you through a time in life that is equal parts exciting and overwhelming. It is because of Chantel that we realized our dream home was actually inside our budget. She guided us through a process that would have otherwise been confusing, and was a fierce advocate for us every step of the way. Chantel's team knows the industry inside and out, they care about their clients, the entire team is reachable, down to earth and approachable. I never once felt like I could not reach out with even the smallest question or concern. I can think of no one better—particularly if you are a first time home buyer. This is absolutely the team for you.\"\"<br><span>— Satisfied Client</span>"
-      },
       "listItems": []
     },
     {
       "type": "standard",
       "title": "The Solution",
       "paragraphs": [
-        "Everything shifted when they connected with our team. We immediately arranged for them to meet the right mortgage contacts and get pre-approved—which opened their eyes to what they could actually afford. But even then, they were still stuck in the mindset that only condos were possible. During our Discovery call, we showed them recent sales data in their preferred neighbourhoods and walked them through options they hadn't even considered. For the first time, they felt not just informed—but genuinely confident they were in the right hands."
+        "Everything shifted when they connected with our team. We immediately arranged for them to meet the right mortgage contacts and get pre-approved, which opened their eyes to what they could actually afford. But even then, they were still stuck in the mindset that only condos were possible. During our Discovery call, we showed them recent sales data in their preferred neighbourhoods and walked them through options they hadn't even considered. For the first time, they felt not just informed, but genuinely confident they were in the right hands."
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765828767318-L3RycmViL2xpc3RpbmdzLzQxLzA4Lzc4LzYzL3AvNmU2NmE5MDEtYzY5ZC00MWYxLWI5NTctMTE3ZDNhOGM2YmM5LmpwZw.jpg"
@@ -94,9 +91,9 @@ const config = {
       "paragraphs": [
         "<strong>WON AGAINST MULTIPLE OFFERS</strong> in one of Toronto's most competitive price points and neighbourhoods",
         "Secured a fully-renovated, 3-bedroom semi-detached home with a dream backyard, finished basement with separate entrance, and even a shed that could be converted into a future rental suite",
-        "<strong>PURCHASED FOR $1,250,000</strong>—a strong offer in a strategic pricing scenario that reflected true market value, not an overpay",
+        "<strong>PURCHASED FOR $1,250,000</strong>. A strong offer in a strategic pricing scenario that reflected true market value, not an overpay",
         "Closed in just over 2 months with zero stress, zero hidden issues, and every single one of their must-haves checked off",
-        "<strong>ACHIEVED THE IMPOSSIBLE:</strong> Went from \"we'll probably just rent a bigger apartment\" to owning their dream freehold home in the city—on their very first showing",
+        "<strong>ACHIEVED THE IMPOSSIBLE:</strong> Went from \"we'll probably just rent a bigger apartment\" to owning their dream freehold home in the city, on their very first showing",
         "The sellers later revealed that even if another offer had been higher, they still would have chosen our buyers because of how meaningful and heartfelt their letter was"
       ],
       "listItems": []
@@ -105,9 +102,9 @@ const config = {
       "type": "standard",
       "title": "Conclusion",
       "paragraphs": [
-        "<strong>Get informed before you get overwhelmed.</strong> Even if you're not ready to buy today, understanding what's actually possible in the current market brings clarity and confidence—and often opens doors you didn't realize were there.",
-        "<strong>Don't let the headlines write your story.</strong> The media paints a picture that homeownership is impossible, but with the right preparation, guidance, and strategy, buying in the city is still very achievable—even in competitive conditions.",
-        "<strong>In multiple offers, heart wins.</strong> A personalized letter to the sellers isn't just a nice touch—it can be the deciding factor that makes you the chosen buyer, even when other offers are financially comparable."
+        "<strong>Get informed before you get overwhelmed.</strong> Even if you're not ready to buy today, understanding what's actually possible in the current market brings clarity and confidence and often opens doors you didn't realize were there.",
+        "<strong>Don't let the headlines write your story.</strong> The media paints a picture that homeownership is impossible, but with the right preparation, guidance, and strategy, buying in the city is still very achievable even in competitive conditions.",
+        "<strong>In multiple offers, heart wins.</strong> A personalized letter to the sellers isn't just a nice touch it can be the deciding factor that makes you the chosen buyer, even when other offers are financially comparable."
       ],
       "listItems": []
     },
@@ -115,7 +112,7 @@ const config = {
       "type": "ctaBanner",
       "ctaBannerContent": {
         "subhead": "Trusted By Hundreds Of Home Buyers & Sellers",
-        "headline": "Book Your Buyer Strategy Session—Discover What's Actually Possible For You in Today's Market (Even If You Think You Can't Afford It)",
+        "headline": "Book Your Buyer Strategy Session. Discover What's Actually Possible For You in Today's Market (Even If You Think You Can't Afford It)",
         "smallText": "Book A Discovery Call Now ➡️"
       }
     }
