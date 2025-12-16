@@ -26,7 +26,7 @@ const config = {
   "header": {
     "tag": "CASE STUDY",
     "title": "How We Helped First-Time Buyers Win Their Dream Toronto Home on Their Very First Showing In a Market They Thought Had Left Them Behind",
-    "subheadline": "Secured a Fully-Renovated Semi-Detached with Dream Backyard in Toronto's East End Against Multiple Offers in a Hyper-Competitive Market"
+    "subheadline": "Secured a Fully-Renovated Semi-Detached with Dream Backyard in Toronto's East End, Against Multiple Offers in a Hyper-Competitive Market"
   },
   "mainBox": {
     "summary": {
