@@ -30,7 +30,7 @@ const config = {
   },
   "mainBox": {
     "summary": {
-      "title": "How We Helped First-Time Buyers Win Their Dream Toronto Home on Their Very First Showing—In a Market They Thought Had Left Them Behind",
+      "title": "How We Helped First-Time Buyers Win Their Dream Toronto Home on Their Very First Showing, In a Market They Thought Had Left Them Behind",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765828740990-L3RycmViL2xpc3RpbmdzLzQxLzA4Lzc4LzYzL3AvOWM0NjJjY2QtZjQxOS00NGJjLWFmOGYtNDdjMGZkZTI0ZDExLmpwZw.jpg"
       },
