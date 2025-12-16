@@ -1,16 +1,5 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "Chantel Crisp",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Chantel Crisp",
@@ -26,11 +15,17 @@ const config = {
           }
         ]
       }
-    ]
+    ],
+    "companyName": "Chantel Crisp",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "#contact",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How We Helped First-Time Buyers Win Their Dream Toronto Home on Their Very First Showing—In a Market They Thought Had Left Them Behind",
+    "title": "How We Helped First-Time Buyers Win Their Dream Toronto Home on Their Very First Showing In a Market They Thought Had Left Them Behind",
     "subheadline": "Secured a Fully-Renovated Semi-Detached with Dream Backyard in Toronto's East End—Against Multiple Offers in a Hyper-Competitive Market"
   },
   "mainBox": {
@@ -64,7 +59,8 @@ const config = {
         "They felt so discouraged by the narrative around affordability that they couldn't even bring themselves to get pre-approved, fearing it would only confirm what they believed: homeownership was out of reach",
         "The fear of overpaying or inheriting hidden problems they couldn't afford to fix kept them paralyzed, stuck between wanting more space and feeling safer staying put in their rental",
         "They had no roadmap, no clarity on what was actually possible for them, and no confidence that the market had anything to offer within their reality"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +74,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"\"We are tremendously grateful to have found Chantel and her team for our first house purchase. There is truly no person better to guide you through a time in life that is equal parts exciting and overwhelming. It is because of Chantel that we realized our dream home was actually inside our budget. She guided us through a process that would have otherwise been confusing, and was a fierce advocate for us every step of the way. Chantel's team knows the industry inside and out, they care about their clients, the entire team is reachable, down to earth and approachable. I never once felt like I could not reach out with even the smallest question or concern. I can think of no one better—particularly if you are a first time home buyer. This is absolutely the team for you.\"\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +85,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765828767318-L3RycmViL2xpc3RpbmdzLzQxLzA4Lzc4LzYzL3AvNmU2NmE5MDEtYzY5ZC00MWYxLWI5NTctMTE3ZDNhOGM2YmM5LmpwZw.jpg"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -100,7 +98,8 @@ const config = {
         "Closed in just over 2 months with zero stress, zero hidden issues, and every single one of their must-haves checked off",
         "<strong>ACHIEVED THE IMPOSSIBLE:</strong> Went from \"we'll probably just rent a bigger apartment\" to owning their dream freehold home in the city—on their very first showing",
         "The sellers later revealed that even if another offer had been higher, they still would have chosen our buyers because of how meaningful and heartfelt their letter was"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -109,7 +108,8 @@ const config = {
         "<strong>Get informed before you get overwhelmed.</strong> Even if you're not ready to buy today, understanding what's actually possible in the current market brings clarity and confidence—and often opens doors you didn't realize were there.",
         "<strong>Don't let the headlines write your story.</strong> The media paints a picture that homeownership is impossible, but with the right preparation, guidance, and strategy, buying in the city is still very achievable—even in competitive conditions.",
         "<strong>In multiple offers, heart wins.</strong> A personalized letter to the sellers isn't just a nice touch—it can be the deciding factor that makes you the chosen buyer, even when other offers are financially comparable."
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -121,24 +121,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://chantelcrisp.com/privacy.html"
+    },
     "logo": {
       "src": "https://app.salesgenius.co/api/user-images/784db49f-c571-4d6c-934d-42c8c82f4079?v=56e10a03535346b71f2c6974b7cadc5b30312cce99d992f0a41c0aa81c0eac65"
+    },
+    "secondaryLogo": {
+      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1759359225380-logo-black-900x900%20(1).jpeg"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Royal LePage Signature Realty",
     "brokerageAddress": "8 Sampson Mews",
-    "secondaryLogo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1759359225380-logo-black-900x900%20(1).jpeg"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://chantelcrisp.com/privacy.html"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-306"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
