@@ -3,7 +3,7 @@ const config = {
     "agents": [
       {
         "name": "Chantel Crisp",
-        "imageSrc": "https://app.salesgenius.co/api/user-images/784db49f-c571-4d6c-934d-42c8c82f4079?v=56e10a03535346b71f2c6974b7cadc5b30312cce99d992f0a41c0aa81c0eac65",
+        "imageSrc": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-CCHRFinals-TorontoPersonalBrandPhotography-0647.jpg",
         "contactDetails": [
           {
             "type": "email",
