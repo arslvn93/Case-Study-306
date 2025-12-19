@@ -55,7 +55,7 @@ const config = {
       "type": "standard",
       "title": "The Challenge",
       "paragraphs": [
-        "\"Based on everything we heard in the media, we just assumed we'd never afford a freehold home in the city, we thought we'd have to leave Toronto entirely or settle for a condo\"",
+        " \"Found us our dream home on the first showing… who does that?! Incredible experience, super supportive and helpful team! If I could buy another house with them right now I would!!!\n",
         "They felt so discouraged by the narrative around affordability that they couldn't even bring themselves to get pre-approved, fearing it would only confirm what they believed: homeownership was out of reach",
         "The fear of overpaying or inheriting hidden problems they couldn't afford to fix kept them paralyzed, stuck between wanting more space and feeling safer staying put in their rental",
         "They had no roadmap, no clarity on what was actually possible for them, and no confidence that the market had anything to offer within their reality"
